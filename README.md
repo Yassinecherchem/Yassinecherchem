@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yassinecherchem
 - 👀 I’m passioned about web developement
-- 🌱 I’m currently an intern developer at Awb - Attijariwafa Bank
+- 🌱 I’m currently a software developer at Awb - Attijariwafa Bank
 - 📫 How to reach me: yassinechercehm@gmail.com
 - ⚡ Fun fact: err.out.print("no fun fact was found!");
 
